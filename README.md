@@ -13,11 +13,12 @@ Aspiring Machine Learning Engineer | LLMs & Neural Networks | Deep Learning & Sc
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Deep Learning & LLM-based projects using FastAPI**
-- 🌱 Currently learning **DSA and Spring Boot (for backend fundamentals)**
-- 👯 Looking to collaborate on **Machine Learning, Deep Learning, NLP & Backend API projects**
-- 🎯 Career Goal: **AI Research Engineer**
-- 📫 Reach me at **kalyangutti19@gmail.com**
+* 🔭 Currently building a **Bike Taxi Backend API using FastAPI**
+* 🌱 Currently learning **FastAPI, REST APIs, SQL, Redis & Microservices**
+* 👯 Looking to collaborate on **Python Backend, FastAPI & AI/ML projects**
+* 💻 Interested in **Backend Engineering, AI/ML & Scalable Systems**
+* 🎯 Career Goal: **Backend / ML Engineer**
+* 📫 Reach me at **[kalyangutti19@gmail.com](mailto:kalyangutti19@gmail.com)**
 
 ---
 
